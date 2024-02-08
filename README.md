@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikołaj 
 - 👀 I’m interested in new technologies, sport and computer games.
-- 🌱 I’m currently learning C++ and Python. I'm studing two faculties of electrical engineering and computer science
+- 🌱 I’m currently learning C++, Python and JavaScript with all with all additional elements, e.g. html. I'm studing two faculties of electrical engineering (I end first step in this faculti) and computer science
 - 💞️ I’m looking for my first job or internship
 - 📫 How to reach me mikochm074@student.polsl.pl
 
